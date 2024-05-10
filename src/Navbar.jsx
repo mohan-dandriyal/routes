@@ -42,7 +42,7 @@ export default function Navbar() {
                     <li className='w-full'><Link to="/" class="text-gray-300 block md:border-0 border-b-2 w-full hover:bg-gray-700 hover:text-white rounded-md px-3 py-2 text-sm font-medium">Home</Link></li>
                     <li><Link to="/about" class="text-gray-300 block md:border-0 border-b-2 w-full hover:bg-gray-700 hover:text-white rounded-md px-3 py-2 text-sm font-medium">About</Link></li>
                     <li><Link to="/contact" class="text-gray-300 block md:border-0 border-b-2 w-full hover:bg-gray-700 hover:text-white rounded-md px-3 py-2 text-sm font-medium">contact</Link></li>
-                    <li><Link to="/" class="text-gray-300 block md:border-0 border-b-2 w-full hover:bg-gray-700 hover:text-white rounded-md px-3 py-2 text-sm font-medium">Contact</Link></li>
+                    <li><Link to="/service" class="text-gray-300 block md:border-0 border-b-2 w-full hover:bg-gray-700 hover:text-white rounded-md px-3 py-2 text-sm font-medium">Contact</Link></li>
                   </ul>
               </div>
             </div>
