@@ -10,7 +10,6 @@ import Service from './pages/Service';
 import Skills from './pages/Skills';
 
 
-
 function App() {
 
   return (
